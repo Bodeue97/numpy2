@@ -67,4 +67,12 @@ import numpy as np
 #     print(x)
 #     print(" ")
 #
+# Zad9
+# a = np.arange(9).reshape(3,3)
+# for x in a.flat:
+#     print(x)
+# Zad10
+
+
+
 
