@@ -72,7 +72,25 @@ import numpy as np
 # for x in a.flat:
 #     print(x)
 # Zad10
+# # Macierz 9x9 można przekształcić na macierze, których bokami
+# # będą dzielniki liczby 81(9*9), czyli:
+# a=np.arange(81).reshape(9,9)
+# print(a)
+# # 1x81 oraz 81x1
+# print(a.reshape(1,81))
+# # 3x27 oraz 27x3
+# print(a.reshape(3, 27))
 
 
+# Zad11
 
+# a=np.arange(12)
+# b=a.reshape(3,4).flat
+# c=a.reshape(4,3).flat
+# d=a.reshape(2,6).flat
+#
+# print(b)
+# print(c)
+# print(d)
+#Te macierze nie są identyczne
 
