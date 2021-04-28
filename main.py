@@ -42,5 +42,29 @@ import numpy as np
 # print(a)
 
 # Zad6
+#
+# a=np.arange(6).reshape(2,3)
+# b=np.cos(a)
+# print(b)
 
+# Zad7
+
+# def addMatrix(a, b):
+#     if a.shape == b.shape:
+#         sum = np.add(a, b)
+#         print(sum)
+#     else :
+#         print("Matrix size do not match")
+#
+# a=np.arange(6).reshape(2,3)
+# b=np.arange(6).reshape(3,2)
+# addMatrix(a,b)
+
+# Zad8
+#
+# a = np.arange(9).reshape(3,3)
+# for x in a:
+#     print(x)
+#     print(" ")
+#
 
