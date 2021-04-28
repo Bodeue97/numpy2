@@ -37,3 +37,9 @@ import numpy as np
 
 # Zad5
 
+# b=np.arange(6).reshape(2,3)
+# a=np.sin(b)
+# print(a)
+
+# Zad6
+
